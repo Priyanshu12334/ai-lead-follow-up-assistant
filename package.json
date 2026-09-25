@@ -1,0 +1,19 @@
+{
+  "name": "ai-lead-followup",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "@google/genai": "^2.22.0",
+    "dotenv": "^17.4.2",
+    "googleapis": "^181.0.0"
+  }
+}
