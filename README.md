@@ -163,7 +163,7 @@ The email is then saved as a Gmail draft for human review.
 
 ### Gemini AI Integration
 
-![Gemini AI Integration](screenshots/3_AI_Code.png)
+![Gemini AI Integration](screenshots/3_Ai_Code.png)
 
 ### Automation Running
 
@@ -206,4 +206,5 @@ API keys and OAuth credentials should always be stored securely as environment v
 
 This project helped me understand how AI can be combined with external APIs to automate a real business workflow while keeping humans involved in important decisions.
 
-The main focus was not fully autonomous email sending, but creating a practical human-in-the-loop automation that reduces repetitive work.
+The main focus was not fully autonomous email sending, but creating a practical human-in-the-loop automation that reduces repetitive work.# ai-lead-follow-up-assistant
+AI-powered lead follow-up automation using Gemini, Google Sheets, and Gmail API with human-in-the-loop email drafts.
